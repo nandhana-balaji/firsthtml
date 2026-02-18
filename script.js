@@ -5,7 +5,7 @@ const canvas = document.querySelector('canvas.webgl')
 
 // Scene
 const scene = new THREE.Scene()
-scene.background = new THREE.Color(0x000000)
+scene.background = new THREE.Color(0xFF0000)
 
 // Sizes
 const sizes = {
